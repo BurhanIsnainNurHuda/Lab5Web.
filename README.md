@@ -178,3 +178,20 @@ Penjelasan:
 
 Cek apakah umur kosong atau kurang dari 17 tahun.
 ``Jika iya`` → muncul pesan error dan form tidak akan dikirim.
+
+    if (valid) {
+    alert("Form berhasil dikirim!");
+    }
+    return valid;
+    
+Penjelasan:
+
+Jika semua input benar ``(valid == true)``, muncul pop-up pemberitahuan bahwa form berhasil dikirim.
+``return valid`` membuat form tidak terkirim kalau ada error (karena ``false`` menghentikan proses submit).
+
+## 5. Kesimpulan
+
+Dari praktikum ini, saya belajar bahwa validasi form sangat penting untuk mencegah data kosong atau salah format sebelum dikirim ke server.
+Selain itu, dengan menggunakan JavaScript, proses pengecekan bisa dilakukan langsung di browser tanpa harus reload halaman.
+
+## 6. Hasil ScreenShoot
