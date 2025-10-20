@@ -195,3 +195,5 @@ Dari praktikum ini, saya belajar bahwa validasi form sangat penting untuk menceg
 Selain itu, dengan menggunakan JavaScript, proses pengecekan bisa dilakukan langsung di browser tanpa harus reload halaman.
 
 ## 6. Hasil ScreenShoot
+<img width="1919" height="956" alt="image" src="https://github.com/user-attachments/assets/80819fbe-263d-4dcb-b933-5f8c209f4fe6" />
+
