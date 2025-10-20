@@ -194,6 +194,6 @@ Jika semua input benar ``(valid == true)``, muncul pop-up pemberitahuan bahwa fo
 Dari praktikum ini, saya belajar bahwa validasi form sangat penting untuk mencegah data kosong atau salah format sebelum dikirim ke server.
 Selain itu, dengan menggunakan JavaScript, proses pengecekan bisa dilakukan langsung di browser tanpa harus reload halaman.
 
-## 6. Hasil ScreenShoot
+## 6. Hasil 
 <img width="1919" height="956" alt="image" src="https://github.com/user-attachments/assets/80819fbe-263d-4dcb-b933-5f8c209f4fe6" />
 
